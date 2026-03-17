@@ -1,6 +1,6 @@
 # SIG — Sports Interoperability Group
 ## Mission, Structure and Governance
-**Status:** Draft v0.1 | **Date:** March 2026 | **Repository:** github.com/sig-sport/sig (proposed)
+**Status:** Draft v0.1 | **Date:** March 2026
 
 ---
 
@@ -224,7 +224,3 @@ These bylaws may be amended by a two-thirds majority vote of the Steering Counci
 | Version | Date | Status | Notes |
 |---|---|---|---|
 | 0.1 | March 2026 | Draft | Initial publication. Authored by SIG-DE founding group. |
-
----
-
-*SIG — Sports Interoperability Group · sig.sport (proposed) · github.com/sig-sport (proposed)*
